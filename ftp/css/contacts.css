@@ -1,0 +1,97 @@
+.contacts{
+	display: block;
+	background-color: #EBEBEF;
+	padding-top: 10px;
+	padding-bottom: 70px;
+}
+
+.contacts-title{
+	display: block;
+	font-family: RobotoThin;
+	font-size: 25px;
+	color: #000;
+	text-align: center;
+} 
+
+.contacts-members{
+	display: block;
+	padding: 10px;
+	border: 2px solid #888;
+}
+
+.contacts-members-man:last-child{
+	margin-bottom: 70px;
+}
+
+.contacts-members-man{
+	display: block;
+	font-size: 14px;
+	margin-top: 40px;
+	font-family: SegoeUIRegular;
+}
+
+.contacts-members-man-pic{
+	display: block;
+	float: left;
+	border-radius: 50%;
+	width: 110px;
+	height: 110px;
+}
+
+.contacts-members-man-info{
+	display: block;
+	float: left;
+	width: 270px;
+	padding-bottom: 20px;
+	margin-left: 25px;
+}
+
+.contacts-members-man-info .name{
+	display: block;
+	font-size: 16px;
+	font-family: SegoeUIRegular;
+	color: #636363;
+	text-decoration: none;
+}
+
+.contacts-members-man-info .position{
+	display: block;
+	font-size: 16px;
+	font-family: SegoeUIRegular;
+	color: #636363;
+	text-decoration: none;
+}
+
+.contacts-members-man-info .email{
+	display: block;
+	margin-top: 10px;
+	text-decoration: none;
+	font-size: 15px;
+	font-family: SegoeUIRegular;
+	color: #000;
+}
+
+.contacts-members-man-info .phone{
+	display: block;
+	margin-top: 5px;
+	text-decoration: none;
+	font-size: 13px;
+	font-family: SegoeUIRegular;
+	color: #000;
+}
+
+.contacts-members-man-about{
+	display: block;
+	float: left;
+	width: 725px;
+	color: #636363;
+	font-size: 14px;
+	font-family: SegoeUIRegular;
+	text-align: justify;
+}
+
+.contacts-members-man-about b{
+	font-weight: normal;
+	font-size: 14px;
+	font-family: SegoeUIRegular;
+}

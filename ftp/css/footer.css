@@ -1,0 +1,77 @@
+#main-footer{
+	display: block;
+	width: 100%;
+	padding-bottom: 10px;
+}
+
+.footer-down{
+	display: block;
+	margin-top: 50px;
+}
+
+.footer-down-youtube:hover{
+	cursor: pointer;
+	background-image: url("../img/footer-youtube-active.png");
+}
+
+.footer-down-youtube{
+	display: block;
+	float: left;
+	margin-top: -6px;
+	margin-left: -10px;
+	width: 53px;
+	height: 34px;
+	background-image: url("../img/footer-youtube.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	transition: background-image .1s ease-in;
+}
+
+.footer-down-instagram:hover{
+	cursor: pointer;
+	background-image: url("../img/footer-instagram-active.png");
+}
+
+.footer-down-instagram{
+	display: block;
+	float: left;
+	margin-left: 0px;
+	width: 22px;
+	height: 22px;
+	background-image: url("../img/footer-instagram.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	transition: background-image .1s ease-in;
+}
+
+.footer-down-vk:hover{
+	cursor: pointer;
+	background-image: url("../img/footer-vk-active.png");
+}
+
+.footer-down-vk{
+	display: block;
+	float: left;
+	margin-left: 10px;
+	width: 24px;
+	height: 24px;
+	background-image: url("../img/footer-vk.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	transition: background-image .1s ease-in;
+}
+
+.footer-down-phone:hover{
+	color: black;
+	font-weight: bold;
+}
+
+.footer-down-phone{
+	display: block;
+	float: right;
+	margin-left: 830px;
+	text-decoration: none;
+	color: #767676;
+	font-size: 20px;
+	font-family: RobotoThin;
+}

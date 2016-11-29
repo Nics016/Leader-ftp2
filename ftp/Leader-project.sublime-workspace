@@ -1,0 +1,380 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"dim",
+				"dimension"
+			],
+			[
+				"de",
+				"dimension"
+			],
+			[
+				"mul",
+				"multiplier"
+			],
+			[
+				"vali",
+				"validation_patterns"
+			],
+			[
+				"key",
+				"keyup_alert_class"
+			],
+			[
+				"sum",
+				"submit_alert_class"
+			],
+			[
+				"test",
+				"test_result"
+			],
+			[
+				"tab",
+				"tab_text_after"
+			],
+			[
+				"tab_text",
+				"tab_text_before"
+			],
+			[
+				"table_n",
+				"table_name"
+			],
+			[
+				"tabl",
+				"table_names"
+			],
+			[
+				"img",
+				"img1/"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"fir",
+				"first-child\t pseudo selector"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"cate",
+				"categoryRawBackgroundHover.jpg\tw:200 h:200"
+			],
+			[
+				"categ",
+				"categories-items-element\t categories.css"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 288.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"stfp",
+				"Preferences: SFTP Settings"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/garratyTheme",
+		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/garratyTheme/css"
+	],
+	"file_history":
+	[
+		"/C/Users/Nikita/Desktop/Code/html/Leader/index.html",
+		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/garratyTheme/header.php",
+		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/garratyTheme/footer.php",
+		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/garratyTheme/css/footer.css",
+		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/garratyTheme/functions.php",
+		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/garratyTheme/css/header.css",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/page-main.php",
+		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/garratyTheme/index.php",
+		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/garratyTheme/css/style.css",
+		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/garratyTheme/page-main.php",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/header.php",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/functions.php",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/css/style.css",
+		"/C/Users/Nikita/Desktop/Code/html/Leader/css/style.css",
+		"/C/Users/Nikita/Desktop/Code/html/Leader/css/header.css",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/index.html",
+		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/garratyTheme/style.css",
+		"/C/Users/Nikita/Desktop/Code/html/Leader/style.css",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/options_page.php",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/footer.php",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/page-cart.php",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/css/cart.css",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/css/sidebar.css",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/page-checkout.php",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/sidebar.php",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/css/style.css",
+		"/C/Users/Nikita/Desktop/Code/htdocs/wordpress/wp-content/themes/mytheme/index.php",
+		"/C/Users/Nikita/Desktop/Code/htdocs/wordpress/wp-content/themes/mytheme/sidebar.php",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/js/cart_form_validation.js",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/backup/cart_form_validation.js",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/page-dostavka.php",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/single.php",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/js/range_car.js",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/css/slider_input.css",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/category.php",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/css/category.css",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/backup/page-cart.php",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/templates/table_view_template.php",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/css/table.css",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/css/footer.css",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/js/table_tabs.js",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/css/cart.css",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/page.php",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/cart.html",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/css/table.css",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/category-articles.html",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/category-articles.php",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/css/category-articles.css",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/css/category-articles.css",
+		"/C/Users/Nikita/Desktop/Code/htdocs/wordpress/wp-content/themes/mytheme/search.php",
+		"/C/Users/Nikita/Desktop/Code/htdocs/wordpress/wp-content/themes/mytheme/page.php",
+		"/C/Users/Nikita/Desktop/Code/htdocs/wordpress/wp-content/themes/mytheme/landing-page.php",
+		"/C/Users/Nikita/Desktop/Code/htdocs/wordpress/wp-content/themes/mytheme/header.php",
+		"/C/Users/Nikita/Desktop/Code/html/index.html",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/css/footer.css",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/css/categories.css",
+		"/C/Users/Nikita/Desktop/Code/html/androidapp/style.css",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/css/page-main.php",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/ftpsync.settings",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/css/categories.css",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/Categories.html",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/stencil.html",
+		"/C/Users/Nikita/Desktop/Code/htdocs/wordpress/wp-content/themes/mytheme/without-sb.php",
+		"/C/Users/Nikita/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/C/Users/Nikita/Desktop/Code/html/Megapolis/ftp/sftp-config.json"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<a",
+			"span",
+			"validation_patterns",
+			"submit_alert_class",
+			"keyup_alert_class",
+			"get_the_post",
+			"content",
+			"t",
+			"p",
+			"child",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<a href=\"#\"",
+			"a",
+			"validationPatterns",
+			"submitAlertClass",
+			"keyupAlertСlass",
+			"span",
+			"a"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Leader-project.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 161.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

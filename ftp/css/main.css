@@ -1,0 +1,137 @@
+.slider-image { 
+	height: 400px;
+	overflow: hidden;
+	width: 100%;
+} 
+
+.slider-image img {
+	display: block;
+	width: 100%;
+}
+
+.slider-image-textblock{
+	display: hidden;
+	padding: 15px;
+	padding-right: 30px;
+	width: 250px;
+	height: 400px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	z-index: 100;
+	background-color: rgba(255, 255, 255, 0.8);
+}
+
+.slider-image-textblock-title{
+	display: block;
+	margin-top: 10px;
+	padding-bottom: 5px;
+	font-size: 16px;
+	font-family: SegoeUIBold;
+	color: #636363;
+	border-bottom: 2px solid black;
+}
+
+.slider-image-textblock-text{
+	display: block;
+	margin-top: 10px;
+	font-size: 14px;
+	font-family: SegoeUILight;
+	color: #636363;
+	text-align: justify;
+	max-height: 230px;
+	overflow: hidden;
+}
+
+.slider-image-textblock-readnext{
+	display: block;
+	position: absolute;
+	top: 320px;
+	right: 20px;
+	height: 32px;
+	width: 32px;
+	cursor: pointer;
+	z-index: 101;
+	background-image: url("../img/header_arrow_readmore.png");
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+ 
+.about{
+	display: block;
+	background-color: #F0F3F4;
+}
+
+.about .container{
+	display: block;
+	padding-top: 10px;
+	padding-bottom: 50px;
+}
+
+.about-title{
+	display: block;
+	text-align: center;
+	color: #636363;	
+	font-family: RobotoThin;
+	font-size: 25px;
+	margin-top: 10px;
+}
+
+.about-info-container{
+	display: block;
+	text-align: justify;
+	border: 2px solid #423F40;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	margin-top: 20px;
+}
+
+.about-info{
+	display: block;
+	padding-top: 5px;
+}
+
+.about-info-pic{
+	display: block;
+	float: left;
+	width: 120px;
+	height: 120px;
+	background-repeat: no-repeat;
+	background-size: 120px 120px;
+	overflow: hidden;
+	border-radius: 50%;
+}
+
+.about-info-pic img {
+	display: block;
+	height: 100%;
+}
+
+.about-info-text{
+	display: block;
+	float: left;
+	width: 980px;
+	margin-left: 20px;
+	color: #636363;
+	font-family: SegoeUIRegular;
+	font-size: 14px;
+} 
+ 
+.about-info-text p {
+	font-size: 14px;
+}
+
+.about-info-subtext{
+  display: block;
+  margin-top: 30px;
+  color: #636363;
+  font-family: SegoeUIRegular;
+  font-size: 14px;
+}
+
+.about-info-subtext-text{
+	display: block;
+	float: right;
+	margin-right: 70px;
+} 
