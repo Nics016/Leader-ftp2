@@ -7,7 +7,7 @@
 		"host": "ftp.fond-lider.r01host.ru",
 		"username": "fond-lider_ftp",  // or null for anonymous login
 		"password": "egb0ork0",
-		"path": "/fond-lider.r01host.ru/docs/wp-content/themes/LeaderTheme",
+		"path": "/xn----gtbbenrlhz5a.xn--p1ai/docs/wp-content/themes/LeaderTheme",
 
 		"upload_on_save": true, // set *false* if you do not want to upload on save!
 
